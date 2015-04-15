@@ -9,3 +9,4 @@ Depending on the assembled components this can be one of the following:
 In each use case multiple board can be chained with regular 2.54mm jumpers (7x).
 RGB-LEDS are spaced 10.0mm so that multiple 50mm x 50mm boards will extend the chain.
 
+29-Apr-2015: Placed an order in iteadstudio.

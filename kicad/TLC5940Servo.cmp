@@ -1,0 +1,318 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 11.3.2015 14:02:25
+
+BeginCmp
+TimeStamp = /54FE12CF;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = jkann:JK_0805_C;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE2ED9;
+Reference = C2;
+ValeurCmp = 470u;
+IdModule  = jkann:JK_ELKO-d8-r3.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FD6BA8;
+Reference = D1;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FD6BCC;
+Reference = D2;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDB33F;
+Reference = D3;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDB35D;
+Reference = D4;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDB786;
+Reference = D5;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDB7A4;
+Reference = D6;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDB7CA;
+Reference = D7;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDB7E8;
+Reference = D8;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBD52;
+Reference = D9;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBD70;
+Reference = D10;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBD96;
+Reference = D11;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBDB4;
+Reference = D12;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBDDA;
+Reference = D13;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBDF8;
+Reference = D14;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBE1E;
+Reference = D15;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBE3C;
+Reference = D16;
+ValeurCmp = JK_LED;
+IdModule  = jkann:JK_0805_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FD9461;
+Reference = D17;
+ValeurCmp = JK_LED_RGB_CA;
+IdModule  = jkann:JK_LED_5MM_RGB;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDA736;
+Reference = D18;
+ValeurCmp = JK_LED_RGB_CA;
+IdModule  = jkann:JK_LED_5MM_RGB;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDA857;
+Reference = D19;
+ValeurCmp = JK_LED_RGB_CA;
+IdModule  = jkann:JK_LED_5MM_RGB;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDA86B;
+Reference = D20;
+ValeurCmp = JK_LED_RGB_CA;
+IdModule  = jkann:JK_LED_5MM_RGB;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDAA55;
+Reference = D21;
+ValeurCmp = JK_LED_RGB_CA;
+IdModule  = jkann:JK_LED_5MM_RGB;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDCA10;
+Reference = R1;
+ValeurCmp = 2k2;
+IdModule  = jkann:JK_0805_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FD52E0;
+Reference = U1;
+ValeurCmp = TLC5940NT;
+IdModule  = jkann:JK_DIP-28N_N;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FD6BB4;
+Reference = X1;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FD6BD8;
+Reference = X2;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDB34B;
+Reference = X3;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDB369;
+Reference = X4;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDB792;
+Reference = X5;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDB7B0;
+Reference = X6;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDB7D6;
+Reference = X7;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDB7F4;
+Reference = X8;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBD5E;
+Reference = X9;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBD7C;
+Reference = X10;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBDA2;
+Reference = X11;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBDC0;
+Reference = X12;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBDE6;
+Reference = X13;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBE04;
+Reference = X14;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBE2A;
+Reference = X15;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBE48;
+Reference = X16;
+ValeurCmp = JK_CONN_3;
+IdModule  = jkann:JK_PH-1x3_SSNM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDDFAB;
+Reference = X17;
+ValeurCmp = INPUT;
+IdModule  = jkann:JK_PH-1x7_SR;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE07D4;
+Reference = X18;
+ValeurCmp = CHAIN;
+IdModule  = jkann:JK_PH-1x7_SL;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FE1F50;
+Reference = X19;
+ValeurCmp = 5VDC-IN;
+IdModule  = jkann:JK_WSP_2x0.75mm2_R;
+EndCmp
+
+BeginCmp
+TimeStamp = /54FDBBE7;
+Reference = X20;
+ValeurCmp = TESTHOOK;
+IdModule  = jkann:JK_WSP_2x0.75mm2_R;
+EndCmp
+
+EndListe
